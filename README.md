@@ -8,3 +8,4 @@
  - [Persistent Notification](https://github.com/mumayank/Private-Document-Keep-Any-App-Alive-Using-Persistent-Notification)
  - [Recycler View](https://github.com/mumayank/AirRecyclerView)
  - [Retrofit](https://github.com/mumayank/Air_Retrofit_Project)
+ - [EasyPrefs](https://github.com/Pixplicity/EasyPrefs)
