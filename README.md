@@ -8,4 +8,5 @@
  - [Persistent Notification](https://github.com/mumayank/Private-Document-Keep-Any-App-Alive-Using-Persistent-Notification)
  - [Recycler View](https://github.com/mumayank/AirRecyclerView)
  - [Retrofit](https://github.com/mumayank/Air_Retrofit_Project)
+ - [Optimize Notification On Reboot](https://github.com/mumayank/AirOptimizeMyAppLibProject)
  - [EasyPrefs](https://github.com/Pixplicity/EasyPrefs)
